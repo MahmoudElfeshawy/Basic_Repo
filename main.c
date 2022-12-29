@@ -6,7 +6,7 @@
 int main()
 {
 
-	char y=12;
+	char develop=77;
 
 	/*develop version*/
 	int z = x+1;
